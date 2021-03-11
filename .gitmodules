@@ -1,0 +1,3 @@
+[submodule "GreyconChallenge.Base"]
+	path = GreyconChallenge.Base
+	url = https://github.com/Alexia-AT-Digitecnology/GreyconChallenge.Base.git

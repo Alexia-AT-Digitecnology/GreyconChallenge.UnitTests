@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyconChallenge.UnitTests", "GreyconChallenge.UnitTests\GreyconChallenge.UnitTests.csproj", "{03AC6F48-786C-4591-9E15-0F3B6DB9E0FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyconChallenge.Base", "GreyconChallenge.Base\GreyconChallenge.Base.csproj", "{4534B9E4-1EFF-482A-91A2-0D6413778ADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{03AC6F48-786C-4591-9E15-0F3B6DB9E0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03AC6F48-786C-4591-9E15-0F3B6DB9E0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03AC6F48-786C-4591-9E15-0F3B6DB9E0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4534B9E4-1EFF-482A-91A2-0D6413778ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4534B9E4-1EFF-482A-91A2-0D6413778ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4534B9E4-1EFF-482A-91A2-0D6413778ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4534B9E4-1EFF-482A-91A2-0D6413778ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
